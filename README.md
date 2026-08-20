@@ -2,6 +2,11 @@
 
 Projeto didatico incremental com Java 17, JDBC, JPA, Hibernate e SQLite. Cada `parada-*` e independente e possui seu proprio banco SQLite previamente criado. As aplicacoes nao criam tabelas, migrations ou dados iniciais.
 
+## Downloads
+
+- [Baixar os slides da aula (PPTX)](https://github.com/marquesbmc/JDBC-JPA-DB/releases/download/v1.0.0/JDBC_JPA_Apresentacao.pptx)
+- [Baixar o pacote completo e pronto para executar (ZIP)](https://github.com/marquesbmc/JDBC-JPA-DB/releases/download/v1.0.0/JDBC-JPA-DB-completo-v1.0.0.zip)
+
 ## Sequencia recomendada
 
 ### JDBC
